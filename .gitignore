@@ -1,1 +1,3 @@
 .kube/
+ingress-ngix/
+kubernetes-dashboard/
